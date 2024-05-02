@@ -24,6 +24,9 @@ Unlock achievements on Microsoft/Xbox games with ease. This tool is inspired by 
   - [Future Improvements](#future-improvements)
   - [License](#license)
 
+## Plugins
+<a href="source/NewPage.md">NewPage</a>
+
 ## About Appname
 ...
 
