@@ -2,7 +2,9 @@
 
   <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-    
+
+   <a href="https://stars.github.com/profiles/RainbowFurry/">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0zbzQ0ZzR1OTVyaDVyeWo1dGEwYTJ0czF2MmJkN2VhcDR5Y2czbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" alt="GitHub Star 2023"/></a>
 
   <a href="https://github.com/RainbowFurry?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RainbowFurry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
