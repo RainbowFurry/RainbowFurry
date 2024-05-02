@@ -1,13 +1,21 @@
-# 🐺RainbowFurry🐺
+# 🌈RainbowFurry🐺
 
 Hey hey and Welcome to my Profile!
 I am RainbowFurry dont worry I wont bite.
-I earn my coffee as a software developer or system administrator by wasting brain cells.
+I earn my coffee as a software developer or system administrator by wasting my brain cells.
 
 ## 🔭Overview🔬
-- [RainbowFurry](#personal)
+- [Personal](#personal)
   - [Coding and IT](#coding-and-it)
-  - [Socials](#social)
+    * [Languages](#languages)
+    * [Tools](#tools)
+    * [Software](#software)
+    * [Database](#database)
+    * [Server](#server)
+    * [Learning](#learning)
+  - [Stats](#stats)
+  - [Projects](#projects)
+  - [Socials](#socials)
 
 
 ## 👧Personal
@@ -26,23 +34,45 @@ After that I started as a full stack developer to improve myself in this area as
 
 Unfortunately, I don't have any projects on GitHub as they are all in Azure.
 
-Coding:
-- C#
-- Java
-- HTML
-- CSS/SCSS/LESS
-- JS
-- TS
-- Angular
-- Bootstrap
 
-Database:
-- SQL
-- NoSQL
+### Languages
 
-Server:
-- MS
-- Linux
+<!--
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+-->
+
+[![Languages](https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,ts,angular,bootstrap)](https://skillicons.dev)&nbsp;
+
+### Tools
+  
+[![Tools](https://skillicons.dev/icons?i=azure,git,github,jenkins,nodejs,npm,stackoverflow,codepen)](https://skillicons.dev)&nbsp;
+
+### Software
+
+[![Software](https://skillicons.dev/icons?i=idea,visualstudio,vscode,eclipse)](https://skillicons.dev)&nbsp;
+
+### Database
+
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)&nbsp;
+
+### Server
+
+[![Server](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)&nbsp;
+
+### 📖Learning
+
+[![Learning](https://skillicons.dev/icons?i=godot,unreal)](https://skillicons.dev)&nbsp;
+
+
+## 📊Stats
+
+![RainbowFurry's github stats](https://github-readme-stats.vercel.app/api?username=RainbowFurry&show_icons=true&count_private=true&bg_color=00000000&text_color=eb34e1&theme=dracula)&nbsp;
+
+
+## 📁Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=RainbowFurry&theme=dark)](https://github.com/RainbowFurry/RainbowFurry)&nbsp;
 
 
 ## 🔔Socials
