@@ -25,7 +25,7 @@ Unlock achievements on Microsoft/Xbox games with ease. This tool is inspired by 
   - [License](#license)
 
 ## Plugins
-<a href="source/NewPage.md">NewPage</a>
+<a href="NewPage.md">NewPage</a>
 
 ## About Appname
 ...
