@@ -70,6 +70,7 @@ Unfortunately, I don't have any projects on GitHub as they are all in Azure.
 ![RainbowFurry's github stats](https://github-readme-stats.vercel.app/api?username=RainbowFurry&show_icons=true&count_private=true&bg_color=00000000&text_color=eb34e1&theme=dracula)&nbsp;
 ![RainbowFurry's projects stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowFurry&theme=dracula&layout=compact&show_icons=true&count_private=true&bg_color=00000000&text_color=eb34e1)&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=dracula)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowFurry&hide_progress=true)
 
 ## 📁Projects
 
