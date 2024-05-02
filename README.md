@@ -99,10 +99,12 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 
 ## 📁Projects
 
+<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=RainbowFurry&theme=dark)](https://github.com/RainbowFurry/RainbowFurry)
 [![ZeroSys](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Zero-Sys&theme=dark)](https://github.com/RainbowFurry/Zero-Sys)
 [![DC Bot](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=FurryMaster-DC-Bot&theme=dark)](https://github.com/RainbowFurry/FurryMaster-DC-Bot)
 [![VoiceAssistent](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=VoiceAssistent&theme=dark)](https://github.com/RainbowFurry/VoiceAssistent)
+-->
 
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
