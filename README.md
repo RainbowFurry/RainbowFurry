@@ -68,7 +68,7 @@ Unfortunately, I don't have any projects on GitHub as they are all in Azure.
 ## 📊Stats
 
 ![RainbowFurry's github stats](https://github-readme-stats.vercel.app/api?username=RainbowFurry&show_icons=true&count_private=true&bg_color=00000000&text_color=eb34e1&theme=dracula)&nbsp;
-
+![RainbowFurry's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowFurry&theme=dracula&layout=compact&show_icons=true&count_private=true&bg_color=00000000&text_color=eb34e1)&nbsp;
 
 ## 📁Projects
 
