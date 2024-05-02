@@ -1,15 +1,17 @@
 # 🌈RainbowFurry🐺
 
+<p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632"/></a>
+</p>
 
-   <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0zbzQ0ZzR1OTVyaDVyeWo1dGEwYTJ0czF2MmJkN2VhcDR5Y2czbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" alt="GitHub Star 2023"/></a>
-
+<p align="center">
   <a href="https://github.com/RainbowFurry?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RainbowFurry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/RainbowFurry?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RainbowFurry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
 <!-- Views -->
 <!--
 ![](https://komarev.com/ghpvc/?username=RainbowFurry)
@@ -19,6 +21,11 @@
 Hey hey and Welcome to my Profile!
 I am RainbowFurry dont worry I wont bite.
 I earn my coffee as a software developer or system administrator by wasting my brain cells.
+
+<p align="center">
+   <a href="https://stars.github.com/profiles/RainbowFurry/">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0zbzQ0ZzR1OTVyaDVyeWo1dGEwYTJ0czF2MmJkN2VhcDR5Y2czbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"/></a>
+</p>
 
 ## 🔭Overview🔬
 - [Personal](#personal)
@@ -48,7 +55,7 @@ Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, s
 I have successfully completed an apprenticeship as a software developer. Even during my training, I was bored after work and thirsty to do new things in IT. I created and managed many game servers and application servers and programmed many exciting projects.
 After that I started as a full stack developer to improve myself in this area as well. 
 
-Unfortunately, I don't have any projects on GitHub as they are all in Azure.
+Unfortunately, I don't have any projects on GitHub as they are mostly all in Azure.
 
 
 ### Languages
