@@ -105,7 +105,7 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 [![VoiceAssistent](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=VoiceAssistent&theme=dark)](https://github.com/RainbowFurry/VoiceAssistent)
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Top Projects</h2></summary>
 
   <p align="left">
     <a href="https://github.com/RainbowFurry/RainbowFurry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=RainbowFurry&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
