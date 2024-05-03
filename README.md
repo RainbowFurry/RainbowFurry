@@ -2,12 +2,7 @@
 
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632"/></a>
-</p>
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://github.com/RainbowFurry/RainbowFurry/GithubStar.png"/></a>
+    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/GithubStar.png"/></a>
 </p>
 
 <p align="center">
@@ -33,7 +28,7 @@ I earn my coffee as a software developer or system administrator by wasting my b
 
 <p align="center">
    <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0zbzQ0ZzR1OTVyaDVyeWo1dGEwYTJ0czF2MmJkN2VhcDR5Y2czbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"/></a>
+    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Pingu.gif"/></a>
 </p>
 
 ## 🔭Overview🔬
