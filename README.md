@@ -10,13 +10,15 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RainbowFurry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/RainbowFurry?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RainbowFurry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/RainbowFurry?tab=views">
+    <img alt="views" title="Total views on Github" src="https://komarev.com/ghpvc/?username=RainbowFurry&color=ed802d&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Views&logoColor=white"/></a>
 </p>
 
 <!-- Views -->
-<!--
-![](https://komarev.com/ghpvc/?username=RainbowFurry)
--->
 
+<!--
+![Test](https://komarev.com/ghpvc/?username=RainbowFurry)
+-->
 
 Hey hey and Welcome to my Profile!
 
@@ -90,7 +92,7 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=dracula)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=dracula&currStreakNum=9830d9&sideLabels=e942f5&currStreakLabel=e942f5&ring=eb34e1&fire=9830d9&sideNums=eb34e1)](https://git.io/streak-stats)
 
 ### 💻 GitHub Profile Stats
 
@@ -99,10 +101,6 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
   <br/>
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowFurry&hide_progress=true)
--->
 
 
 ## 📁Projects
