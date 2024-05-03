@@ -26,7 +26,7 @@
 -->
 
 <div>
-  <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry2.png">
+  <img align="right" width="16%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry2.png">
 </div>
 
 Hey hey and Welcome to my Profile!
@@ -34,6 +34,10 @@ Hey hey and Welcome to my Profile!
 I am RainbowFurry dont worry I wont bite.
 
 I earn my coffee as a software developer or system administrator by wasting my brain cells.
+
+If you want to get know more about me you can scroll down to check out my profile.
+
+Just write me if you have questions or if you need any help with coding or server stuff. Im in.
 
 <p align="center">
    <a href="https://stars.github.com/profiles/RainbowFurry/">
@@ -58,10 +62,8 @@ I earn my coffee as a software developer or system administrator by wasting my b
 ## 👧Personal
 
 <div>
-  <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry1.png">
+  <img align="right" width="20%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry1.png">
 </div>
-
-</br>
 
 NickName: RaibowFurry🌈
 
@@ -72,7 +74,6 @@ Level: 25🏆 (20.09.1998)
 Gender: female🎀 (MtF Trans🏳‍🌈)
 
 Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, social contact👬 
-
 
 ## 💻Coding and IT
 
