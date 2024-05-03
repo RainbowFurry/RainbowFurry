@@ -2,6 +2,11 @@
 
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
+    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/banner.png"/></a>
+</p>
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/GithubStar.png"/></a>
 </p>
 
