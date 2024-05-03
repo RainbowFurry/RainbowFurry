@@ -53,14 +53,29 @@ I earn my coffee as a software developer or system administrator by wasting my b
 
 ## 👧Personal
 
+<!--
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+-->
+</br>
+
 NickName: RaibowFurry🌈
+
 Name: Jasmin Hoffmann
+
 Level: 25🏆 (20.09.1998)
+
 Gender: female🎀 (MtF Trans🏳‍🌈)
+
 Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, social contact👬 
 
 
 ## 💻Coding and IT
+
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 I have successfully completed an apprenticeship as a software developer. Even during my training, I was bored after work and thirsty to do new things in IT. I created and managed many game servers and application servers and programmed many exciting projects.
 After that I started as a full stack developer to improve myself in this area as well. 
