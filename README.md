@@ -117,8 +117,8 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 ## Trophies
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/RainbowFurry/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RainbowFurry&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 
