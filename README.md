@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="https://stars.github.com/profiles/RainbowFurry/">
+    <img src="https://github.com/RainbowFurry/RainbowFurry/GithubStar.png"/></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/RainbowFurry?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RainbowFurry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/RainbowFurry?tab=followers">
