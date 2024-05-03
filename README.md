@@ -6,7 +6,6 @@
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Steam.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Microsoft.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg">
-
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Snapchat.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg">
@@ -171,9 +170,12 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 
 ## 🔔Socials
 
+<!--
 [Discord][social-discord]
 [Discord Server][discord-invite]
 [Telegram][social-telegram]
+-->
+
 <!---
 [TikTok]
 [Instagram]
@@ -182,7 +184,8 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 [YouTube]
 --->
 
-
+<!--
 [discord-invite]: https://discord.gg/Ff9MU8QGrY
 [social-discord]: https://discord.gg/39brtBXq
 [social-telegram]: https://t.me/RainbowFurry
+-->
