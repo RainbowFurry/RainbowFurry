@@ -98,9 +98,14 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 
   <a href="https://github.com/RainbowFurry/github-readme-stats"><img alt="RainbowFurry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RainbowFurry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=eb34e1&icon_color=e942f5" height="192px"/></a>
   <a href="https://github.com/RainbowFurry/github-readme-stats"><img alt="RainbowFurry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RainbowFurry&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=eb34e1&icon_color=e942f5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+### Activity Graph
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RainbowFurry's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RainbowFurry&bg_color=1F222E&color=eb34e1&line=e942f5&point=FFFFFF&hide_border=true" /></a>
+
+Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view clones to show of.
 
 
 ## 📁Projects
