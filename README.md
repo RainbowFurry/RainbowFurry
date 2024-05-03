@@ -41,6 +41,7 @@ I earn my coffee as a software developer or system administrator by wasting my b
     * [Server](#server)
     * [Learning](#learning)
   - [Stats](#stats)
+  - [Trophies](#trophies)
   - [Projects](#projects)
   - [Socials](#socials)
 
@@ -106,6 +107,15 @@ Note: Top languages is only a metric of the languages my public code consists of
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RainbowFurry's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RainbowFurry&bg_color=1F222E&color=eb34e1&line=e942f5&point=FFFFFF&hide_border=true" /></a>
 
 Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view clones to show of.
+
+
+## Trophies
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Kiran1689/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
 
 
 ## 📁Projects
