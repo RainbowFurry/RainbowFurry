@@ -25,6 +25,10 @@
 ![Test](https://komarev.com/ghpvc/?username=RainbowFurry)
 -->
 
+<div>
+  <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry2.png">
+</div>
+
 Hey hey and Welcome to my Profile!
 
 I am RainbowFurry dont worry I wont bite.
@@ -53,11 +57,10 @@ I earn my coffee as a software developer or system administrator by wasting my b
 
 ## 👧Personal
 
-<!--
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry1.png">
 </div>
--->
+
 </br>
 
 NickName: RaibowFurry🌈
@@ -74,7 +77,7 @@ Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, s
 ## 💻Coding and IT
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Eule.png">
 </div>
 
 I have successfully completed an apprenticeship as a software developer. Even during my training, I was bored after work and thirsty to do new things in IT. I created and managed many game servers and application servers and programmed many exciting projects.
