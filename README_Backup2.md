@@ -16,6 +16,11 @@
 #780206 #061161
   ```
 
+| Slug               | Example                                                   |
+| ------------------ | --------------------------------------------------------- |
+| `issue-opened`     | Test             |
+| `repo-forked`      | Test2                |
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=footer&reversal=false">
 </p>
 
