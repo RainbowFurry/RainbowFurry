@@ -1,5 +1,19 @@
 # 🌈RainbowFurry🐺
 
+<p align="center">
+  <!--
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient"/>
+  -->
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=header&reversal=false">
+
+  ```yaml
+    <p>Code in here</p>
+  ```
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=footer&reversal=false">
+</p>
+
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik Tok.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Google.svg">
