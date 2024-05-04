@@ -1,23 +1,6 @@
 # 🌈RainbowFurry🐺
 
 <p align="center">
-  
-  <!--
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=header&reversal=false">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:780206,100:061161&text=Hey%20Everyone!🕹️&section=header&reversal=false">
-  -->
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7e00ff,100:ff00ea&text=Hey%20Everyone!🕹️&section=header&reversal=false">
-
-  ```yaml
-    <p>Code in here</p>
-  ```
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=footer&reversal=false">
-</p>
-
-<p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/banner.png"/></a>
 </p>
@@ -183,11 +166,28 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Microsoft.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Snapchat.svg">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">
+<!--<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">-->
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Xbox.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg">
 </p>
+
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7e00ff,100:ff00ea&text=Hey%20Everyone!🕹️&section=footer&reversal=false&fontColor=fff&animation=twinkling">
+
+  <!--
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=header&reversal=false">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:780206,100:061161&text=Hey%20Everyone!🕹️&section=header&reversal=false">
+  -->
+  
+<!--
+  ```yaml
+    <p>Code in here</p>
+  ```
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=footer&reversal=false">
+-->
+
 
 <!--
 [Discord][social-discord]
