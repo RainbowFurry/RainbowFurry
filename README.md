@@ -17,13 +17,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RainbowFurry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/RainbowFurry?tab=views">
     <img alt="views" title="Total views on Github" src="https://komarev.com/ghpvc/?username=RainbowFurry&color=ed802d&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Views&logoColor=white"/></a>
+  <a href="https://discord.gg/39brtBXq"><img src="https://img.shields.io/discord/1154776025599856819?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
 </p>
 
-<!-- Views -->
-
-<!--
-![Test](https://komarev.com/ghpvc/?username=RainbowFurry)
--->
 
 <div>
   <img align="right" width="16%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry2.png">
