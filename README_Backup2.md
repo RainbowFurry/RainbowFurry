@@ -9,6 +9,11 @@
 
   ```yaml
     <p>Code in here</p>
+  #7e00ff #ff00ea
+#360033 #0b8793
+#d38312 #a83279
+#9d50bb #6e48aa
+#780206 #061161
   ```
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Hey%20Everyone!🕹️&section=footer&reversal=false">
