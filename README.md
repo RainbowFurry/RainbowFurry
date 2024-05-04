@@ -142,11 +142,16 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
-
+  
   <p align="left">
     <a href="https://github.com/RainbowFurry/RainbowFurry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=RainbowFurry&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/RainbowFurry/Zero-Sys"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Zero-Sys&theme=react&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/RainbowFurry/FurryMaster-DC-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=RainbowFurry&repo=FurryMaster-DC-Bot&theme=react&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+
+  <a href="https://github.com/RainbowFurry/Zero-Web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Zero-Web&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/RainbowFurry/VoiceAssistent"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=VoiceAssistent&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/RainbowFurry/Zero_Web_GetGameContent"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Zero_Web_GetGameContent&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/RainbowFurry/JasonJT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=JasonJT&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 
   <a href="https://github.com/RainbowFurry?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -158,7 +163,10 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik Tok.svg">
 <a href="https://www.youtube.com/channel/UC4ZxUsOqMwjOq3SN0vO8Dig"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"></a>
 <a href="https://www.snapchat.com/add/rainbowfurry_jt?share_id=oWtAm4KCswo&locale=de-DE&sid=c3e5571866764fa7923f6c3919a9a5a3"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Snapchat.svg"></a>
-<!--<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">https://www.instagram.com/rainbowfurryjt/?igshid=ZDdkNTZiNTM%3D-->
+<!--
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">
+  https://www.instagram.com/rainbowfurryjt/?igshid=ZDdkNTZiNTM%3D
+-->
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg">
 
 <a href="https://t.me/RainbowFurry"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg"></a>
