@@ -170,6 +170,7 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Xbox.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg">
+<a href="https://t.me/RainbowFurry"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg"></a>
 </p>
 
 
