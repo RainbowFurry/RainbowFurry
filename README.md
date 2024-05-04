@@ -160,16 +160,16 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 
 <p align="left">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik Tok.svg">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg">
+<a href="https://www.youtube.com/channel/UC4ZxUsOqMwjOq3SN0vO8Dig"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"></a>
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Google.svg">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Steam.svg">
+<a href="https://steamcommunity.com/id/RainbowFurryJT"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Steam.svg"></a>
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Microsoft.svg">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Snapchat.svg">
-<!--<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">-->
+<a href="https://www.snapchat.com/add/rainbowfurry_jt?share_id=oWtAm4KCswo&locale=de-DE&sid=c3e5571866764fa7923f6c3919a9a5a3"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Snapchat.svg"></a>
+<!--<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">https://www.instagram.com/rainbowfurryjt/?igshid=ZDdkNTZiNTM%3D-->
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Xbox.svg">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg">
+<a href="https://account.xbox.com/de-de/Profile?xr=mebarnav&rtc=1&csrf=-fT9tEjh7i7k0a4op9wHiYrLwJ3hZsJu_yJHqCBtdP6IrW5yFKlX3Cy9fqE6MRI8XqzWrswrJKZ6ikGhEW4ibmJoxuU1&wa=wsignin1.0"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Xbox.svg">
+<a href="mailto:jasmin98.hoffmann@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"></a>
 <a href="https://t.me/RainbowFurry"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg"></a>
 </p>
 
