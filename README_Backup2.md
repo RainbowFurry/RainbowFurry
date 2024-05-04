@@ -189,6 +189,11 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 
 ## 🔔Socials
 
+ <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hey%20Everyone!🕹️">
+ 
+ <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&text=Hey%hey&color=auto&desc=Hey&descAlignY=20&descAlign=10">
+
+
 [Discord][social-discord]
 [Discord Server][discord-invite]
 [Telegram][social-telegram]
