@@ -1,5 +1,5 @@
 # 🌈RainbowFurry🐺
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/banner.png"/></a>
