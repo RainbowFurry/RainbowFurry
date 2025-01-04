@@ -1,7 +1,7 @@
 # 🌈RainbowFurry🐺
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="RainbowFurry" />
+  <img src="https://raw.githubusercontent.com/RainbowFurry/RainbowFurry/master/name.svg" alt="RainbowFurry" />
 </h1>
 
 <p align="center">
