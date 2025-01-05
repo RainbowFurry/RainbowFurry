@@ -1,5 +1,9 @@
 # 🌈RainbowFurry🐺
 
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=RepoName&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+
+
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/banner.png"/></a>
