@@ -10,12 +10,6 @@
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/GithubStar.png"/></a>
 </p>
 
-<div align="center">
-
-[Home](https://rainbowfurr.com) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
-
-</div>
-
 <p align="center">
   <a href="https://github.com/RainbowFurry?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RainbowFurry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -27,6 +21,11 @@
   <a href="https://discord.gg/39brtBXq"><img src="https://img.shields.io/discord/1309574664141668393?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
 </p>
 
+<div align="center">
+
+[Home](https://rainbowfurr.com) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
+
+</div>
 
 <div>
   <img align="right" width="16%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry2.png">
