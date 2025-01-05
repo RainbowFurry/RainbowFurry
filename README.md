@@ -1,11 +1,5 @@
 # 🌈RainbowFurry🐺
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowFurry&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainbowFurry&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=RainbowFurry&theme=radical)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RainbowFurry&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/banner.png"/></a>
