@@ -22,7 +22,6 @@
 </p>
 
 <br>
-<br>
 <div align="center">
 
 [Home](https://rainbowfurr.com) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
