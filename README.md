@@ -1,7 +1,7 @@
 # 🌈RainbowFurry🐺
 
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=RepoName&theme=radical)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=RepoName&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=RainbowFurry&theme=react-dark)
 
 
 <p align="center">
