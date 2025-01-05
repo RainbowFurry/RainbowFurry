@@ -21,6 +21,12 @@
   <a href="https://discord.gg/39brtBXq"><img src="https://img.shields.io/discord/1309574664141668393?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
 </p>
 
+![GitHub contributors][contributors-badge]
+![GitHub forks][forks-badge]
+![GitHub stars][stars-badge]
+![GitHub issues][issues-badge]
+![GitHub release][release-badge]
+
 <br>
 <div align="center">
 
@@ -201,11 +207,17 @@ Amazon
 -->
 </p>
 
-
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7e00ff,100:ff00ea&text=Hey%20Everyone!🕹️&section=footer&reversal=false&fontColor=fff&animation=twinkling">
-  
-<!--
-  ```yaml
-    <p>Code in here</p>
-  ```
--->
+
+[contributors-badge]: https://img.shields.io/github/contributors/RainbowFurry/RainbowFurry?style=for-the-badge
+[contributors-url]: https://github.com/RainbowFurry/RainbowFurry/graphs/contributors
+[forks-badge]: https://img.shields.io/github/forks/RainbowFurry/RainbowFurry?style=for-the-badge
+[forks-url]: https://github.com/RainbowFurry/RainbowFurry/network/members
+[stars-badge]: https://img.shields.io/github/stars/RainbowFurry/RainbowFurry?style=for-the-badge
+[stars-url]: https://github.com/RainbowFurry/RainbowFurry/stargazers
+[issues-badge]: https://img.shields.io/github/issues/RainbowFurry/RainbowFurry?style=for-the-badge
+[issues-url]: https://github.com/RainbowFurry/RainbowFurry/issues
+[release-badge]: https://img.shields.io/github/v/release/RainbowFurry/RainbowFurry?style=for-the-badge
+[release-url]: https://github.com/RainbowFurry/RainbowFurry/releases
+[LICENSE]:LICENSE
+[MIT-LICENSE]:LICENSE.MIT
