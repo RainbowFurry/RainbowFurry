@@ -21,6 +21,8 @@
   <a href="https://discord.gg/39brtBXq"><img src="https://img.shields.io/discord/1309574664141668393?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
 </p>
 
+<br>
+<br>
 <div align="center">
 
 [Home](https://rainbowfurr.com) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
