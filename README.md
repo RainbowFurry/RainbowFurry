@@ -26,8 +26,8 @@
 [Home](https://rainbowfurr.com) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
 
 </div>
-<hr>
-<hr>
+<br>
+<br>
 
 <div>
   <img align="right" width="16%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry2.png">
