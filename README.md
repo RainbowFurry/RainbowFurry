@@ -19,7 +19,6 @@
     <img alt="views" title="Total views on Github" src="https://komarev.com/ghpvc/?username=RainbowFurry&color=ed802d&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Views&logoColor=white"/></a>
   <a href="https://discord.gg/39brtBXq"><img src="https://img.shields.io/discord/1154776025599856819?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
   <a href="https://discord.gg/39brtBXq"><img src="https://img.shields.io/discord/1309574664141668393?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
-  <a href="https://discord.gg/39brtBXq"><img src="https://img.shields.io/patreon/RainbowFurry?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
 </p>
 
 
