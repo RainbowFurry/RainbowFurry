@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 
-[Home](https://rainbowfurr.com) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
+[Home](https://rainbowfurr.com) | [Forum](https://forum.rainbowfurry.com/phoenix-docs) | [Wiki/Docs](https://docs.rainbowfurry.com/phoenix-docs) | [Donate](#usage) | [Contributing](#contributing) | [License](#license)
 
 </div>
 <br>
