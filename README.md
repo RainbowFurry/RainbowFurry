@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/banner.png"/></a>
+    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/banner.png"/></a>
 </p>
 
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/GithubStar.png"/></a>
+    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/GithubStar.png"/></a>
 </p>
 
 <p align="center">
