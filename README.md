@@ -31,7 +31,7 @@
 <br>
 
 <div>
-  <img align="right" width="16%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry2.png">
+  <img align="right" width="16%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Furry2.png">
 </div>
 
 Hey hey and Welcome to my Profile!
@@ -47,7 +47,7 @@ Just write me if you have questions or if you need any help with coding or serve
 
 <p align="center">
    <a href="https://stars.github.com/profiles/RainbowFurry/">
-    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Pingu.gif"/></a>
+    <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Pingu.gif"/></a>
 </p>
 
 ## 🔭Overview🔬
@@ -68,7 +68,7 @@ Just write me if you have questions or if you need any help with coding or serve
 ## 👧Personal
 
 <div>
-  <img align="right" width="20%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Furry1.png">
+  <img align="right" width="20%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Furry1.png">
 </div>
 
 NickName: RaibowFurry🌈
@@ -84,7 +84,7 @@ Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, s
 ## 💻Coding and IT
 
 <div>
-  <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Eule.png">
+  <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Eule.png">
 </div>
 
 I have successfully completed an apprenticeship as a software developer. Even during my training, I was bored after work and thirsty to do new things in IT. I created and managed many game servers and application servers and programmed many exciting projects.
