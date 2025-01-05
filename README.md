@@ -10,6 +10,12 @@
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/GithubStar.png"/></a>
 </p>
 
+<div align="center">
+
+[Home](https://rainbowfurr.com) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
+
+</div>
+
 <p align="center">
   <a href="https://github.com/RainbowFurry?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RainbowFurry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
