@@ -1,6 +1,10 @@
 # 🌈RainbowFurry🐺
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RainbowFurry&style=flat-square&color=blue)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![GitHub Followers](https://img.shields.io/github/followers/YourUsername?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/YourUsername?label=Stars&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)
 
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
