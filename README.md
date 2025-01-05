@@ -1,6 +1,6 @@
 # 🌈RainbowFurry🐺
 
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Phoenix_MinecraftAPI&theme=radical)
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Phoenix_MC_API&theme=radical)
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=RainbowFurry&theme=react-dark)
 
 
