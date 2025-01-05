@@ -146,13 +146,11 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 
   <p align="left">
     <a href="https://github.com/RainbowFurry/Phoenix_DiscordBot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Phoenix_DiscordBot&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-      <p align="left">
     <a href="https://github.com/RainbowFurry/Phoenix_MC_API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Phoenix_MC_API&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-      <p align="left">
     <a href="https://github.com/RainbowFurry/Phoenix_TelegramBOT_API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Phoenix_TelegramBOT_API&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   
-  <p align="left">
-    <a href="https://github.com/RainbowFurry/RainbowFurry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=RainbowFurry&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
+<a href="https://github.com/RainbowFurry/RainbowFurry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=RainbowFurry&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/RainbowFurry/Zero-Sys"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Zero-Sys&theme=react&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/RainbowFurry/FurryMaster-DC-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=RainbowFurry&repo=FurryMaster-DC-Bot&theme=react&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
 
