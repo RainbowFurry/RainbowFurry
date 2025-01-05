@@ -44,6 +44,9 @@ If you want to get know more about me you can scroll down to check out my profil
 
 Just write me if you have questions or if you need any help with coding or server stuff. Im in.
 
+[![Visit My Website](https://via.placeholder.com/400x200?text=Preview+Image)](https://example.com)
+
+
 <p align="center">
    <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Pingu.gif"/></a>
