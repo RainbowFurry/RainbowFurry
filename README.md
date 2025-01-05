@@ -1,5 +1,7 @@
 # 🌈RainbowFurry🐺
 
+![Visitor Count](https://komarev.com/ghpvc/?username=RainbowFurry&style=flat-square&color=blue)
+
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/banner.png"/></a>
