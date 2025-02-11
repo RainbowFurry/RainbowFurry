@@ -77,11 +77,11 @@ Just write me if you have questions or if you need any help with coding or serve
   <img align="right" width="20%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Furry1.png">
 </div>
 
-NickName: RaibowFurry🌈
+NickName: RainbowFurry🌈
 
 Name: Jasmin Hoffmann
 
-Level: 25🏆 (20.09.1998)
+Level: 26🏆 (20.09.1998)
 
 Gender: female🎀 (MtF Trans🏳‍🌈)
 
