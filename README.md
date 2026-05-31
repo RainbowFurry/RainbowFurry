@@ -8,8 +8,8 @@
 
 <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/e87d524b-ad76-4d26-9acb-a07848f7723d.jpg" style="max-height: 400px; width: 1080px; object-fit: cover;"/>
 <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/103c6496-075c-41fe-8e74-e55d31bd5430.jpg" style="max-height: 400px; width: 1080px; object-fit: cover;"/>
-<img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Images/Images/e84ad063-4a57-4936-ae5b-7c11631901b3.jpg" style="max-height: 400px; width: 1080px; object-fit: cover;"/>
-<img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Images/Images/86a37d14-3c01-4f44-b760-a02a137b5388.jpg" style="max-height: 400px; width: 1080px; object-fit: cover;"/>
+<img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/e84ad063-4a57-4936-ae5b-7c11631901b3.jpg" style="max-height: 400px; width: 1080px; object-fit: cover;"/>
+<img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/86a37d14-3c01-4f44-b760-a02a137b5388.jpg" style="max-height: 400px; width: 1080px; object-fit: cover;"/>
 
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
