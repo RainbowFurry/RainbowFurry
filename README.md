@@ -5,6 +5,8 @@
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/banner.png"/></a>
 </p>
 
+<img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/e87d524b-ad76-4d26-9acb-a07848f7723d.jpg"/></a>
+
 <p align="center">
   <a href="https://stars.github.com/profiles/RainbowFurry/">
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/GithubStar.png"/></a>
