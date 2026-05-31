@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/e87d524b-ad76-4d26-9acb-a07848f7723d.jpg" style="max-height: 400px; width: 800px; object-fit: cover;"/>
+<img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/e87d524b-ad76-4d26-9acb-a07848f7723d.jpg" style="max-height: 200px; width: 1080px; object-fit: cover;"/>
 
 <table>
   <tr>
