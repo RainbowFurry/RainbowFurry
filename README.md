@@ -201,12 +201,10 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
   <a href="https://github.com/RainbowFurry/MinecraftServerProfiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=MinecraftServerProfiler&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/RainbowFurry/XRayProtection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=XRayProtection&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/RainbowFurry/CraftedIdentity"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=CraftedIdentity&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-
   <a href="https://github.com/RainbowFurry/MinecraftBoxPlugin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=MinecraftBoxPlugin&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/RainbowFurry/Minecraft_Lib_API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainbowFurry&repo=Minecraft_Lib_API&theme=dracula&bg_color=1F222E&title_color=eb34e1&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 
-  <a href="https://github.com/RainbowFurry?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 
