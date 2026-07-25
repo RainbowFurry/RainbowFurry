@@ -119,6 +119,8 @@ After that I started as a full stack developer to improve myself in this area as
 Unfortunately, I don't have any projects on GitHub as they are mostly all in Azure.
 </details>
 
+<details open> 
+  <summary><h2>Details</h2></summary>
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,ts,angular,bootstrap)](https://skillicons.dev)&nbsp;
@@ -142,13 +144,14 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 ### 📖Learning
 
 [![Learning](https://skillicons.dev/icons?i=godot,unreal)](https://skillicons.dev)&nbsp;
+</details>
 
-
-## 📊Stats
-
+<details open> 
+  <summary><h2>📊Stats</h2></summary>
 ### 🔥 Streak Stats
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=dracula&currStreakNum=9830d9&sideLabels=e942f5&currStreakLabel=e942f5&ring=eb34e1&fire=9830d9&sideNums=eb34e1)](https://git.io/streak-stats)
+</details>
 
 <details open> 
   <summary><h2>💻 GitHub Profile Stats</h2></summary>
