@@ -177,6 +177,41 @@ EOF
 
 ------------------------------------------------------------------
 
+hostname: github
+
+role:
+  primary: Software Engineer
+  secondary:
+    - Systems Engineering
+    - DevOps
+    - Automation
+
+languages:
+  preferred:
+    - C#
+    - Python
+    - Java
+    - JavaScript
+    - SQL
+
+operating_systems:
+    - Linux
+    - Windows
+
+interests:
+    - Distributed Systems
+    - Backend Architecture
+    - Networking
+    - Infrastructure
+    - Security
+    - Reverse Engineering
+
+editor:
+    primary: VS Code
+
+coffee:
+    enabled: true
+
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║                  SOFTWARE ENGINEER                       ║
