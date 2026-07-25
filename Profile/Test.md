@@ -177,6 +177,7 @@ EOF
 
 ------------------------------------------------------------------
 
+``` YML
 hostname: github
 
 role:
@@ -211,15 +212,18 @@ editor:
 
 coffee:
     enabled: true
+```
 
+``` Text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║                  SOFTWARE ENGINEER                       ║
 ║            SYSTEMS • BACKEND • AUTOMATION                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
+```
 
-
+``` Text
 SYSTEM OVERVIEW
 
 Developer Instance
@@ -232,8 +236,9 @@ Location      Germany
 Uptime        20+ Years
 Architecture  Full Stack + Infrastructure
 Focus         Software Engineering
+```
 
-
+```Text
 Technology                     Confidence
 
 C#                             ████████████
@@ -247,8 +252,9 @@ Kubernetes                     ███████
 Networking                     █████████
 Git                            ████████████
 CI/CD                          █████████
+```
 
-
+``` Text
 Repositories
 
 backend/
@@ -261,9 +267,9 @@ algorithms/
 docker/
 linux/
 opensource/
+```
 
-
-
+``` Text
 END OF FILE
 
 Checksum
@@ -274,5 +280,7 @@ Document Version
 2026.07
 
 Status
+Maintained
+```
 Maintained
 
