@@ -57,6 +57,8 @@ Just write me if you have questions or if you need any help with coding or serve
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Pingu.gif"/></a>
 </p>
 
+---
+
 <details open> 
   <summary><h2>🔭Overview🔬</h2></summary>
   
@@ -73,6 +75,8 @@ Just write me if you have questions or if you need any help with coding or serve
   - [Projects](#projects)
   - [Socials](#socials)
 </details> 
+
+---
 
 <details open> 
   <summary><h2>👧Personal</h2></summary>
@@ -92,6 +96,8 @@ Gender: female🎀 (MtF Trans🏳‍🌈)
 Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, social contact👬 
 </details>
 
+---
+
 <details open> 
   <summary><h2>🖼️ Gallery</h2></summary>
   
@@ -109,6 +115,8 @@ Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, s
 </table>
 </details>
 
+---
+
 <details open> 
   <summary><h2>💻Coding and IT</h2></summary>
   
@@ -121,6 +129,8 @@ After that I started as a full stack developer to improve myself in this area as
 
 Unfortunately, I don't have any projects on GitHub as they are mostly all in Azure.
 </details>
+
+---
 
 <details open> 
   <summary><h2>Details</h2></summary>
@@ -150,6 +160,8 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 [![Learning](https://skillicons.dev/icons?i=godot,unreal)](https://skillicons.dev)&nbsp;
 </details>
 
+---
+
 <details open> 
   <summary><h2>📊Stats</h2></summary>
   
@@ -157,6 +169,8 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=dracula&currStreakNum=9830d9&sideLabels=e942f5&currStreakLabel=e942f5&ring=eb34e1&fire=9830d9&sideNums=eb34e1)](https://git.io/streak-stats)
 </details>
+
+---
 
 <details open> 
   <summary><h2>💻 GitHub Profile Stats</h2></summary>
@@ -167,6 +181,8 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+---
+
 <details open> 
   <summary><h2>Activity Graph</h2></summary>
 
@@ -174,6 +190,8 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view clones to show of.
 </details> 
+
+---
 
 <details open> 
   <summary><h2>🏆Trophies</h2></summary>
@@ -185,6 +203,8 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
   </a>
 </p>
 </details>
+
+---
 
 <details open> 
   <summary><h2>📁Projects</h2></summary>
@@ -225,6 +245,9 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
   </p>
 
 </details>
+</details>
+
+---
 
 <details open> 
   <summary><h2>🔔Socials</h2></summary>
@@ -257,7 +280,23 @@ Amazon
 </details>
 </details>
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7e00ff,100:ff00ea&text=Hey%20Everyone!🕹️&section=footer&reversal=false&fontColor=fff&animation=twinkling">
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7e00ff,100:ff00ea&text=Thanks%20for%20visiting!%20🌈&fontColor=ffffff&animation=twinkling&section=footer"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🌈 Happy Coding • Stay Curious • Build Amazing Things
+
+Made with ❤️ by **RainbowFurry**
+
+</div>
 
 [contributors-badge]: https://img.shields.io/github/contributors/RainbowFurry/RainbowFurry?style=for-the-badge
 [contributors-url]: https://github.com/RainbowFurry/RainbowFurry/graphs/contributors
