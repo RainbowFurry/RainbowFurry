@@ -76,6 +76,7 @@ Just write me if you have questions or if you need any help with coding or serve
 
 <details open> 
   <summary><h2>👧Personal</h2></summary>
+  
 <div>
   <img align="right" width="20%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Furry1.png">
 </div>
@@ -93,6 +94,7 @@ Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, s
 
 <details open> 
   <summary><h2>🖼️ Gallery</h2></summary>
+  
 <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/e87d524b-ad76-4d26-9acb-a07848f7723d.jpg" style="max-height: 200px; width: 1080px; object-fit: cover;"/>
 
 <table>
@@ -109,6 +111,7 @@ Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, s
 
 <details open> 
   <summary><h2>💻Coding and IT</h2></summary>
+  
 <div>
   <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Eule.png">
 </div>
@@ -121,6 +124,7 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 
 <details open> 
   <summary><h2>Details</h2></summary>
+  
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,ts,angular,bootstrap)](https://skillicons.dev)&nbsp;
@@ -148,6 +152,7 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 
 <details open> 
   <summary><h2>📊Stats</h2></summary>
+  
 ### 🔥 Streak Stats
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=dracula&currStreakNum=9830d9&sideLabels=e942f5&currStreakLabel=e942f5&ring=eb34e1&fire=9830d9&sideNums=eb34e1)](https://git.io/streak-stats)
@@ -172,6 +177,7 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 
 <details open> 
   <summary><h2>🏆Trophies</h2></summary>
+  
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/RainbowFurry/github-profile-trophy">
