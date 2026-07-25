@@ -57,7 +57,9 @@ Just write me if you have questions or if you need any help with coding or serve
     <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Pingu.gif"/></a>
 </p>
 
-## 🔭Overview🔬
+<details open> 
+  <summary><h2>🔭Overview🔬</h2></summary>
+  
 - [Personal](#personal)
   - [Coding and IT](#coding-and-it)
     * [Languages](#languages)
@@ -70,10 +72,11 @@ Just write me if you have questions or if you need any help with coding or serve
   - [Trophies](#trophies)
   - [Projects](#projects)
   - [Socials](#socials)
+</details> 
 
-
-## 👧Personal
-
+<details open> 
+  <summary><h2>👧Personal</h2></summary>
+  
 <div>
   <img align="right" width="20%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Furry1.png">
 </div>
@@ -87,7 +90,11 @@ Level: 26🏆 (20.09.1998)
 Gender: female🎀 (MtF Trans🏳‍🌈)
 
 Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, social contact👬 
+</details>
 
+<details open> 
+  <summary><h2>🖼️ Gallery</h2></summary>
+  
 <img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/e87d524b-ad76-4d26-9acb-a07848f7723d.jpg" style="max-height: 200px; width: 1080px; object-fit: cover;"/>
 
 <table>
@@ -100,9 +107,11 @@ Hobbys: programming💻, IT💾, swimming🏊‍♀️, climbing🧗‍♀️, s
     <td width="50%"><img src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/86a37d14-3c01-4f44-b760-a02a137b5388.jpg"></td>
   </tr>
 </table>
+</details>
 
-## 💻Coding and IT
-
+<details open> 
+  <summary><h2>💻Coding and IT</h2></summary>
+  
 <div>
   <img align="right" width="40%" src="https://github.com/RainbowFurry/RainbowFurry/blob/main/Images/Eule.png">
 </div>
@@ -111,8 +120,11 @@ I have successfully completed an apprenticeship as a software developer. Even du
 After that I started as a full stack developer to improve myself in this area as well. 
 
 Unfortunately, I don't have any projects on GitHub as they are mostly all in Azure.
+</details>
 
-
+<details open> 
+  <summary><h2>Details</h2></summary>
+  
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,ts,angular,bootstrap)](https://skillicons.dev)&nbsp;
@@ -136,39 +148,46 @@ Unfortunately, I don't have any projects on GitHub as they are mostly all in Azu
 ### 📖Learning
 
 [![Learning](https://skillicons.dev/icons?i=godot,unreal)](https://skillicons.dev)&nbsp;
+</details>
 
-
-## 📊Stats
-
-
+<details open> 
+  <summary><h2>📊Stats</h2></summary>
+  
 ### 🔥 Streak Stats
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RainbowFurry&theme=dracula&currStreakNum=9830d9&sideLabels=e942f5&currStreakLabel=e942f5&ring=eb34e1&fire=9830d9&sideNums=eb34e1)](https://git.io/streak-stats)
+</details>
 
-### 💻 GitHub Profile Stats
+<details open> 
+  <summary><h2>💻 GitHub Profile Stats</h2></summary>
 
   <a href="https://github.com/RainbowFurry/github-readme-stats"><img alt="RainbowFurry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RainbowFurry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=eb34e1&icon_color=e942f5" height="192px"/></a>
   <a href="https://github.com/RainbowFurry/github-readme-stats"><img alt="RainbowFurry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RainbowFurry&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=eb34e1&icon_color=e942f5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
-### Activity Graph
+<details open> 
+  <summary><h2>Activity Graph</h2></summary>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RainbowFurry's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RainbowFurry&bg_color=1F222E&color=eb34e1&line=e942f5&point=FFFFFF&hide_border=true" /></a>
 
 Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view clones to show of.
+</details> 
 
-
-## Trophies
+<details open> 
+  <summary><h2>🏆Trophies</h2></summary>
+  
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/RainbowFurry/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RainbowFurry&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
+</details>
 
-
-## 📁Projects
+<details open> 
+  <summary><h2>📁Projects</h2></summary>
 
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
@@ -207,8 +226,8 @@ Note: I work on my Projects in Azure not on GitHub. On GitHub are just a view cl
 
 </details>
 
-
-## 🔔Socials
+<details open> 
+  <summary><h2>🔔Socials</h2></summary>
 
 <p align="left">
 <!-- Social -->
@@ -235,6 +254,8 @@ PayPal
 Amazon
 -->
 </p>
+</details>
+</details>
 
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7e00ff,100:ff00ea&text=Hey%20Everyone!🕹️&section=footer&reversal=false&fontColor=fff&animation=twinkling">
 
